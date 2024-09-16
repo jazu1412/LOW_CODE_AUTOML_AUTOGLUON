@@ -14,9 +14,9 @@ This directory contains Jupyter notebooks focused on image segmentation and docu
 
 To help you understand the concepts and implementation details, we've prepared video walkthroughs for each notebook:
 
-1. Beginner Semantic Image Segmentation: [Video Walkthrough](https://drive.google.com/file/d/1L0dA3h6FPHSJ9Rd_hBXyPf8TElGkLFRO/view?usp=sharing)
-2. Document Classification (Budget Email Form): [Video Walkthrough](https://drive.google.com/file/d/1XrOfNHSfUb_D1wVhg-X0kA1yQ-CsZHmI/view?usp=sharing)
-3. PDF Classification: [Video Walkthrough](https://drive.google.com/file/d/1ZkIRDYGpLRxLl_-NOmYIKqfYmPvyLpFB/view?usp=sharing)
+1. Beginner Semantic Image Segmentation: [Video Walkthrough](https://drive.google.com/file/d/1xjgrcAHayPWqcqAYjDP31KStQAqfDD7N/view?usp=sharing)
+2. Document Classification (Budget Email Form): [Video Walkthrough](https://drive.google.com/file/d/1isCHCBb_R-8acrflGtGcNAOuKLFTX_5y/view?usp=sharing)
+3. PDF Classification: [Video Walkthrough](https://drive.google.com/file/d/17UIVpS3eimAgblGxl0nNHEb6hl5NMZ_8/view?usp=sharing)
 
 These video walkthroughs provide step-by-step explanations of the concepts and code in each notebook.
 
