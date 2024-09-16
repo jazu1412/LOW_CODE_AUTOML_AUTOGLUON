@@ -15,6 +15,9 @@ The repository is organized into several categories, each focusing on different 
 - TABULAR CLASSIFICATION AND REGRESSION
 - TEXT CLASSIFICATION
 
+### VDEOS IN GOOGLE DRIVE- [ANYONE CAN VIEW - SHARING]
+I have added the recordings in google drive as I have reached the upload limit in youtube 
+
 ## Notebooks Overview
 
 ### FORECAST TIME SERIES
