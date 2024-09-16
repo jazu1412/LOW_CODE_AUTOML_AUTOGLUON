@@ -37,4 +37,4 @@ For more information about the competition, visit the official Kaggle competitio
 Remember to check the main README of the repository for general setup instructions and prerequisites.
 
 
-![ kaggle ]([http://url/to/img.png](https://drive.google.com/file/d/1SiDHRfFUiJuKPZ7_pdEycD8ie0-RvLte/view?usp=sharing))
+![ kaggle ]([kaggle-screen.png)
