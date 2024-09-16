@@ -20,12 +20,12 @@ This directory contains Jupyter notebooks demonstrating various semantic matchin
 
 To help you understand the concepts and implementation details, we've prepared video walkthroughs for each notebook:
 
-1. Image-Text Matching: [Video Walkthrough](https://drive.google.com/file/d/1sQJMKbB5LKDuVFlsaJQddtNcOoiW8Ntt/view?usp=sharing)
-2. Image-Text Zero-Shot Matching: [Video Walkthrough](https://drive.google.com/file/d/11bniBroDeMiTmEOOsPzCO1pFPhcKMUm-/view?usp=sharing)
-3. Image-to-Image Matching: [Video Walkthrough](https://drive.google.com/file/d/1-WQfDZU-G8iVmFp7CiNGbzw6N17Urzcd/view?usp=sharing)
-4. Text Semantic Search with GPU: [Video Walkthrough](https://drive.google.com/file/d/13Cw5P6GfBHk3LIk2d4lh-yl6FX1w0jkh/view?usp=sharing)
-5. Text Semantic Search: [Video Walkthrough](https://drive.google.com/file/d/1PEq5_DtXGqKGt7T4_5R_7bAZqc_i-Tkc/view?usp=sharing)
-6. Text-to-Text Matching: [Video Walkthrough](https://drive.google.com/file/d/1r-Uh8VCj7xE8L1uiuS2BAPTTzU7dB6pJ/view?usp=sharing)
+1. Image-Text Matching: [Video Walkthrough](https://drive.google.com/file/d/1ec3uED3ZNpM9XDik6kMm1KRC4p-eJ1Ab/view?usp=sharing)
+2. Image-Text Zero-Shot Matching: [Video Walkthrough](https://drive.google.com/file/d/18H1zqldz0k7KBjo4tW32CqsWxwDXpv8f/view?usp=sharing)
+3. Image-to-Image Matching: [Video Walkthrough](https://drive.google.com/file/d/11ekdKAfw3Frx2uyIxPCI0tBPcXw6G56F/view?usp=sharing)
+4. Text Semantic Search with GPU: [Video Walkthrough](https://drive.google.com/file/d/1cO9PJfrjmwTOyh5-mc2zct_0tx_Y__q0/view?usp=sharing)
+5. Text Semantic Search: [Video Walkthrough](https://drive.google.com/file/d/1cO9PJfrjmwTOyh5-mc2zct_0tx_Y__q0/view?usp=sharing)
+6. Text-to-Text Matching: [Video Walkthrough](https://drive.google.com/file/d/1oORWt-SpNqvDGLN1hTlhgJBuEgk0a-73/view?usp=sharing)
 
 These video walkthroughs provide step-by-step explanations of the concepts and code in each notebook.
 
