@@ -23,9 +23,9 @@ This directory contains Jupyter notebooks demonstrating various multimodal learn
 
 To help you understand the concepts and implementation details, we've prepared video walkthroughs for each notebook:
 
-1. Entity Extraction in Multimodal NER: [Video Walkthrough](https://drive.google.com/file/d/1qjAkd_CYPFGLCecjCQZZhSXRGBf4ZhzJ/view?usp=sharing)
-2. Image + Text Multimodal: [Video Walkthrough](https://drive.google.com/file/d/1JTHVvqBadPEDhh1LXPT-FcL6pR8m-3GN/view?usp=sharing)
-3. Multimodal Text Tabular: [Video Walkthrough](https://drive.google.com/file/d/1WwRZLfAFnp5uKvn66gPQbNaOtdySzbDj/view?usp=sharing)
+1. Entity Extraction in Multimodal NER: [Video Walkthrough](https://drive.google.com/file/d/1-XFtxzGYQhu-KizuLc1a-YGR-UxeqJt9/view?usp=sharing)
+2. Image + Text Multimodal: [Video Walkthrough](https://drive.google.com/file/d/1Vk0qCQHFG1hJNvbTWvv_TKR3ul9TvHrb/view?usp=sharing)
+3. Multimodal Text Tabular: [Video Walkthrough](https://drive.google.com/file/d/15k3jH0BpR0wPwr606N1Qqd7ayeGh0L7V/view?usp=sharing)
 
 These video walkthroughs provide step-by-step explanations of the concepts and code in each notebook.
 
