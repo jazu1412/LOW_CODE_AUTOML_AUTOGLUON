@@ -12,8 +12,8 @@ This directory contains Jupyter notebooks focused on time series forecasting usi
 
 To help you understand the concepts and implementation details, we've prepared video walkthroughs for each notebook:
 
-1. Forecasting Chronos: [Video Walkthrough](https://drive.google.com/file/d/1eifvAtq2Nwu5VB77CUx-5YuJnxpFCCYP/view?usp=sharing)
-2. Forecasting In-depth: [Video Walkthrough](https://drive.google.com/file/d/1X4_iTDzl7lUBcY_UWRZf4qXQ7oQwbTu8/view?usp=sharing)
+1. Forecasting Chronos: [Video Walkthrough](https://drive.google.com/file/d/1t1K5p01kP9yxhfMHG0bqGGqqaRVmgJho/view?usp=sharing)
+2. Forecasting In-depth: [Video Walkthrough](https://drive.google.com/file/d/1ezvS1qL3WcdT_zqj4P2M-ThAHTw9X9SS/view?usp=sharing)
 
 These video walkthroughs provide step-by-step explanations of the concepts and code in each notebook.
 
