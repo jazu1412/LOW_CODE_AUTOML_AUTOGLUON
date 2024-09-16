@@ -14,7 +14,7 @@ This directory contains Jupyter notebooks for Kaggle competitions, demonstrating
 
 To help you understand the concepts and implementation details, we've prepared a video walkthrough for the notebook:
 
-IEEE Fraud Detection: [Video Walkthrough](https://drive.google.com/file/d/1A5iiXh_4iQ1BFdHsWE5j-SfUOhxI2GrN/view?usp=sharing)
+IEEE Fraud Detection: [Video Walkthrough](https://drive.google.com/file/d/1EaA90Pu9TVCMDoM1NQzukobgUbgRBsSu/view?usp=sharing)
 
 This video walkthrough provides a step-by-step explanation of the concepts and code in the notebook.
 
