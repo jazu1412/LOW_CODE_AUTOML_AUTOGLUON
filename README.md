@@ -1,4 +1,4 @@
-# AutoGluon Kaggle Projects
+# AutoGluon  Projects
 
 This repository contains a collection of Jupyter notebooks demonstrating various machine learning tasks using AutoGluon, a powerful AutoML library. The notebooks cover a wide range of applications, from image classification to time series forecasting.
 
