@@ -15,8 +15,8 @@ The repository is organized into several categories, each focusing on different 
 - TABULAR CLASSIFICATION AND REGRESSION
 - TEXT CLASSIFICATION
 
-### VDEOS IN GOOGLE DRIVE- [ANYONE CAN VIEW - SHARING]
-I have added the recordings in google drive as I have reached the upload limit in youtube 
+### VIDEOS IN GOOGLE DRIVE - [ANYONE CAN VIEW - SHARING]
+I have added the recordings in Google Drive as I have reached the upload limit in YouTube. 
 
 ## Notebooks Overview
 
@@ -36,6 +36,9 @@ I have added the recordings in google drive as I have reached the upload limit i
 
 ### KAGGLE
 - `ieee_fraud_detection.ipynb`: IEEE Fraud Detection competition notebook
+- `california_housing_autogluon.ipynb`: California Housing dataset regression task
+
+These Kaggle competition notebooks demonstrate the use of AutoGluon in real-world machine learning challenges. Video walkthroughs are available for both notebooks to help understand the concepts and implementation details.
 
 ### MULTI MODAL USECASES
 - `entity_extraction_in_multimodal_ner.ipynb`: Entity extraction in multimodal named entity recognition
@@ -83,4 +86,8 @@ To use these notebooks:
 
 Feel free to contribute to this project by adding new notebooks, improving existing ones, or fixing issues. Please submit a pull request with your changes.
 
+## Kaggle Profile
 
+You can find more of my Kaggle work and competitions at my Kaggle profile:
+
+[https://www.kaggle.com/jayasuryamurali](https://www.kaggle.com/jayasuryamurali)
