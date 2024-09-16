@@ -16,6 +16,8 @@ To help you understand the concepts and implementation details, we've prepared a
 
 IEEE Fraud Detection: [Video Walkthrough](https://drive.google.com/file/d/1EaA90Pu9TVCMDoM1NQzukobgUbgRBsSu/view?usp=sharing)
 
+california: https://drive.google.com/file/d/14qwBWkf9I9H74THYT_YiX1_9eb9Tr1nX/view?usp=sharing
+
 This video walkthrough provides a step-by-step explanation of the concepts and code in the notebook.
 
 ## Getting Started
