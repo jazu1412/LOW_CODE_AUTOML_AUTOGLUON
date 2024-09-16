@@ -65,15 +65,15 @@ The repository is organized into several categories, each focusing on different 
 To use these notebooks:
 
 1. Clone this repository to your local machine.
-2. Ensure you have Jupyter Notebook or JupyterLab installed.
+2. Ensure you have Jupyter Notebook or JupyterLab/Google Colab installed.
 3. Install AutoGluon and other required dependencies (refer to individual notebooks for specific requirements).
-4. Open the notebooks using Jupyter and run the cells to explore different machine learning tasks.
+4. Open the notebooks using Jupyter/Google Colab and run the cells to explore different machine learning tasks.
 
 ## Prerequisites
 
 - Python 3.7+
 - AutoGluon library
-- Jupyter Notebook or JupyterLab
+- Jupyter Notebook or JupyterLab/ Google Colab
 - GPU support is recommended for some notebooks
 
 ## Contributing
