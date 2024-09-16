@@ -20,12 +20,12 @@ This directory contains Jupyter notebooks demonstrating various techniques for t
 
 To help you understand the concepts and implementation details, we've prepared video walkthroughs for each notebook:
 
-1. AutoGluon Feature Engineering Tutorial: [Video Walkthrough](https://drive.google.com/file/d/19S2iWuQQ8EK1KDMzg16-HUfDQ7WMKqBV/view?usp=sharing)
-2. AutoGluon GPU Tutorial: [Video Walkthrough](https://drive.google.com/file/d/1EzMTp7fEGwKCHgmWXfv4RUz1FHEWlBcC/view?usp=sharing)
-3. Multi-Label Prediction: [Video Walkthrough](https://drive.google.com/file/d/1aSKF6RzGz-Gs1Eo14Fyi3miHFfqv8nR2/view?usp=sharing)
-4. Multimodal Tabular: [Video Walkthrough](https://drive.google.com/file/d/14QhM2LrK7m7bKvT6-sIKejyMldKGOqyg/view?usp=sharing)
-5. Tabular In-depth: [Video Walkthrough](https://drive.google.com/file/d/1Km2qDC5sJA_LtaK1wxxBPjhcyX8RlsvQ/view?usp=sharing)
-6. Tabular Quick Start: [Video Walkthrough](https://drive.google.com/file/d/1OShg1ZwCq4lhWwrXZlF4JMBqqtDEfWLs/view?usp=sharing)
+1. AutoGluon Feature Engineering Tutorial: [Video Walkthrough](https://drive.google.com/file/d/1AOhcVYZ5Vm9wkncVwedHfwJK_dJgT_OY/view?usp=sharing)
+2. AutoGluon GPU Tutorial: [Video Walkthrough](https://drive.google.com/file/d/1yzFMv4UYvvnnVQ5R3KbSVOXBiWn8slkp/view?usp=sharing)
+3. Multi-Label Prediction: [Video Walkthrough](https://drive.google.com/file/d/1U9kdeR2f-DFZ02-LC9DF-ubUmIWnZljp/view?usp=sharing)
+4. Multimodal Tabular: [Video Walkthrough](https://drive.google.com/file/d/14zMZUiUjYGpCNrnIWPnnumx-WLyuF0AT/view?usp=sharing)
+5. Tabular In-depth: [Video Walkthrough](https://drive.google.com/file/d/1ra3d-KR4_G2tIie8WDug9u2VumtmSuLB/view?usp=sharing)
+6. Tabular Quick Start: [Video Walkthrough](https://drive.google.com/file/d/1wVWv_RO6mdtMGHAV2C7j4HUyFGm9uGXH/view?usp=sharing)
 
 These video walkthroughs provide step-by-step explanations of the concepts and code in each notebook.
 
