@@ -12,6 +12,15 @@ This directory contains Jupyter notebooks demonstrating various text classificat
    - Sentiment Analysis: Determining the sentiment (positive, negative, neutral) of a given text.
    - Sentence Similarity: Measuring how similar two sentences are in terms of their meaning or content.
 
+## Video Walkthroughs
+
+To help you understand the concepts and implementation details, we've prepared video walkthroughs for each notebook:
+
+1. multilingual_text_problem_updated: [Video Walkthrough](https://drive.google.com/file/d/1hxvq-69jQTtgDg71bMsW0i_-KIGlk9Bx/view?usp=sharing)
+2. ner_tutorial_notebook : [Video Walkthrough](https://drive.google.com/file/d/1E5dCUr6MJVguWlMoltdk05cD6Pp4KDk2/view?usp=sharing)
+3. Sentiment_analysis_and_sentence_similarity: [Video Walkthrough](https://drive.google.com/file/d/1RnDhGLBGFBMU_jnBVr6B3u2clfUgLVej/view?usp=sharing)
+
+
 ## Getting Started
 
 To use these notebooks:
