@@ -35,3 +35,6 @@ Remember to comply with Kaggle's rules and regulations when participating in com
 For more information about the competition, visit the official Kaggle competition page.
 
 Remember to check the main README of the repository for general setup instructions and prerequisites.
+
+
+![alt text](http://url/to/img.png)
