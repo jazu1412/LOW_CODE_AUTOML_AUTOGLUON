@@ -4,11 +4,19 @@ This directory contains Jupyter notebooks for Kaggle competitions, demonstrating
 
 ## Notebooks
 
-1. `ieee_fraud_detection.ipynb`: This notebook is dedicated to the IEEE Fraud Detection competition on Kaggle. It likely covers:
+1. `ieee_fraud_detection.ipynb`: This notebook is dedicated to the IEEE Fraud Detection competition on Kaggle. It covers:
    - Data exploration and preprocessing of transaction data
    - Feature engineering specific to fraud detection
    - Model training using AutoGluon for identifying fraudulent transactions
    - Evaluation and submission of results to the Kaggle competition
+
+## Video Walkthrough
+
+To help you understand the concepts and implementation details, we've prepared a video walkthrough for the notebook:
+
+IEEE Fraud Detection: [Video Walkthrough](https://drive.google.com/file/d/1A5iiXh_4iQ1BFdHsWE5j-SfUOhxI2GrN/view?usp=sharing)
+
+This video walkthrough provides a step-by-step explanation of the concepts and code in the notebook.
 
 ## Getting Started
 
@@ -18,6 +26,7 @@ To use this notebook:
 2. Download the competition data from the Kaggle website and place it in an appropriate directory.
 3. Open the notebook in Jupyter Notebook or JupyterLab.
 4. Follow the instructions within the notebook to understand the problem, prepare the data, train models using AutoGluon, and generate submissions for the competition.
+5. Watch the corresponding video walkthrough for a more detailed explanation of the notebook.
 
 ## Kaggle Competition Participation
 
