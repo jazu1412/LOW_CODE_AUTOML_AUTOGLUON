@@ -80,6 +80,4 @@ To use these notebooks:
 
 Feel free to contribute to this project by adding new notebooks, improving existing ones, or fixing issues. Please submit a pull request with your changes.
 
-## License
 
-This project is open-source and available under the MIT License.
