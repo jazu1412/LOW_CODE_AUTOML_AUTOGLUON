@@ -16,7 +16,7 @@ To help you understand the concepts and implementation details, we've prepared v
 
 1. CLIP Zero-shot Classification: [Video Walkthrough](https://drive.google.com/file/d/1l5CneQttlOVQj_rAWLT7LCqyQ3OZ2QH3/view?usp=sharing)
 2. Image Classifier: [Video Walkthrough](https://drive.google.com/file/d/1-bby3inrXV1PqXjgOY_czNMDKkIXPw0a/view?usp=sharing)
-3. Image Object Detection: [Video Walkthrough]()
+3. Image Object Detection: [Video Walkthrough](https://drive.google.com/file/d/1idF9amPa1x0xROz8OAtvkleRWVNfYxws/view?usp=sharing)
 
 These video walkthroughs provide step-by-step explanations of the concepts and code in each notebook.
 
