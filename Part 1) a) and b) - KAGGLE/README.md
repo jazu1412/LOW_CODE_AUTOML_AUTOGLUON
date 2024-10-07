@@ -4,13 +4,16 @@ This directory contains Jupyter notebooks for Kaggle competitions, demonstrating
 
 ## Notebooks
 
-1. `ieee_fraud_detection.ipynb`: This notebook is dedicated to the IEEE Fraud Detection competition on Kaggle. It covers:
+1. `ieee_fraud_detection.ipynb`: [GOOGLE COLAB LINK](https://colab.research.google.com/drive/1omjhPY33jwiwz3VVmnvlB6d_zjqquHMQ?usp=sharing)
+    This notebook is dedicated to the IEEE Fraud Detection competition on Kaggle. It covers:
    - Data exploration and preprocessing of transaction data
    - Feature engineering specific to fraud detection
    - Model training using AutoGluon for identifying fraudulent transactions
    - Evaluation and submission of results to the Kaggle competition
 
-2. `california_housing_autogluon.ipynb`: This notebook focuses on the California Housing dataset, which is a popular dataset for regression tasks. It covers:
+
+2. `california_housing_autogluon.ipynb`: [GOOGLE COLAB LINK](https://colab.research.google.com/drive/1hXVReEF06Mn3TeCwt1IyNYYwc4y7JMFC?usp=sharing)
+   This notebook focuses on the California Housing dataset, which is a popular dataset for regression tasks. It covers:
    - Data exploration and preprocessing of housing data
    - Feature engineering for housing sold price prediction
    - Model training using AutoGluon for predicting housing sold prices
@@ -21,6 +24,7 @@ This directory contains Jupyter notebooks for Kaggle competitions, demonstrating
 To help you understand the concepts and implementation details, we've prepared video walkthroughs for the notebooks:
 
 1. IEEE Fraud Detection: [Video Walkthrough](https://drive.google.com/file/d/1EaA90Pu9TVCMDoM1NQzukobgUbgRBsSu/view?usp=sharing)
+   
 
 2. California Housing: [Video Walkthrough](https://drive.google.com/file/d/14qwBWkf9I9H74THYT_YiX1_9eb9Tr1nX/view?usp=sharing)
 
