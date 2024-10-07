@@ -5,17 +5,18 @@ This directory contains Jupyter notebooks demonstrating various techniques for t
 ## Notebooks
 
 1. `autogluon_feature_engineering_tutorial.ipynb`: This notebook provides a tutorial on feature engineering techniques using AutoGluon for tabular data.
+[GOOGLE COLAB LINK](https://colab.research.google.com/drive/16H1T7A56Au3x6KTcwCijxouPucJxAUXh?usp=sharing)
 
 2. `autogluon_gpu_tutorial_ipynb_updated.ipynb`: This notebook demonstrates how to leverage GPU acceleration for faster model training and inference with AutoGluon on tabular data.
 
 3. `multi_label_prediction_notebook.ipynb`: This notebook focuses on multi-label prediction tasks, where each instance can belong to multiple categories simultaneously.
 
-4. `Multimodal_Tabular.ipynb`: This notebook explores how to combine tabular data with other data modalities (such as text or images) for more comprehensive analysis and prediction.
-
+4. `Multimodal_Tabular.ipynb`: This notebook explores how to combine tabular data with other data modalities (such as text or images) for more comprehensive analysis and prediction. 
+[GOOGLE COLAB LINK](https://colab.research.google.com/drive/1gL6vNK9VXSY3ulWcYU0auC61vEBE1ZtN?usp=sharing)
 5. `Tabular_Indepth.ipynb`: This notebook provides an in-depth exploration of tabular data analysis techniques using AutoGluon, covering advanced topics and best practices.
-
+[GOOGLE COLAB LINK](https://colab.research.google.com/drive/1lqLbj524_6Hvc3NBWfCKGQhgLC6y-uX2?usp=sharing)
 6. `tabular_quick_start.ipynb`: This notebook offers a quick start guide for using AutoGluon with tabular data, covering the basics of data preparation, model training, and evaluation.
-
+[GOOGLE COLAB LINK](https://colab.research.google.com/drive/1EbqfUDiQoYD74FjEWRQyAZnxScr6L_Zw?usp=sharing)
 ## Video Walkthroughs
 
 To help you understand the concepts and implementation details, we've prepared video walkthroughs for each notebook:
